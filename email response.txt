@@ -1,0 +1,13 @@
+{"result":"valid","reason":"accepted_email","disposable":"false","accept_all":"false","role":"false","free":"true","email":"kshivakumar7227@gmail.com","user":"kshivakumar7227","domain":"gmail.com","mx_record":"gmail-smtp-in.l.google.com","mx_domain":"google.com","safe_to_send":"true","did_you_mean":"","success":"true","message":""}
+
+
+
+{"result":"invalid","reason":"rejected_email","disposable":"false","accept_all":"false","role":"false","free":"false","email":"pankaj1@steris.com","user":"pankaj1","domain":"steris.com","mx_record":"mxa-0021b801.gslb.pphosted.com","mx_domain":"pphosted.com","safe_to_send":"false","did_you_mean":"","success":"true","message":""}
+
+
+{"result":"valid","reason":"accepted_email","disposable":"false","accept_all":"false","role":"false","free":"false","email":"pankaj@steris.com","user":"pankaj","domain":"steris.com","mx_record":"mxa-0021b801.gslb.pphosted.com","mx_domain":"pphosted.com","safe_to_send":"true","did_you_mean":"","success":"true","message":""}
+
+
+
+
+Array ( [result] => valid [reason] => accepted_email [disposable] => false [accept_all] => false [role] => false [free] => true [email] => kshivakumar7227@gmail.com [user] => kshivakumar7227 [domain] => gmail.com [mx_record] => gmail-smtp-in.l.google.com [mx_domain] => google.com [safe_to_send] => true [did_you_mean] => [success] => true [message] => )
